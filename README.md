@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm Ahin and I'm a DevOps Engineer student at Chas Academy in Stockholm.
 
 <!--
 **f-eighty7/f-eighty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
