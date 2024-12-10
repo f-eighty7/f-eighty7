@@ -1,4 +1,4 @@
-### Hi👋, Welcome to my Github repo!
+### Hi👋 Welcome to my Github repo!
 
 <!--
 **f-eighty7/f-eighty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
