@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infrastructure as Code (IaC). As a recent graduate from Chas Academy with hands-on experience from my internship at Cypoint Infinity, I am passionate about building scalable, resilient, and efficient systems using modern DevOps principles.
+I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infrastructure as Code (IaC). I am passionate about building scalable, resilient, and efficient systems using modern DevOps principles.
 
 - 🔭 I am currently looking for new opportunities in the DevOps field and working on personal projects to deepen my knowledge of cloud technologies.
 - 🌱 I am particularly interested in container technologies, Infrastructure as Code (IaC), and CI/CD pipelines.
@@ -18,7 +18,7 @@ I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,docker,kubernetes,githubactions,gitlab,git,python,cs,bash,powershell,prometheus,grafana,postgres,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,azure,terraform,ansible,docker,kubernetes,githubactions,gitlab,git,python,cs,bash,powershell,prometheus,grafana,postgres,mysql&theme=dark" />
   </a>
 </p>
 
