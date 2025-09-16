@@ -24,6 +24,16 @@ I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infra
 
 ---
 
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahin-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
