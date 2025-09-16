@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Ahin Khan 👋</h1>
-  <h3>DevOps Engineer from Stockholm, Sweden</h3>
+  <h3>DevOps Engineer</h3>
 </div>
 
 ---
@@ -8,9 +8,6 @@
 ### 👨‍💻 About Me
 
 I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infrastructure as Code (IaC). I am passionate about building scalable, resilient, and efficient systems using modern DevOps principles.
-
-- 🔭 I am currently looking for new opportunities in the DevOps field and working on personal projects to deepen my knowledge of cloud technologies.
-- 🌱 I am particularly interested in container technologies, Infrastructure as Code (IaC), and CI/CD pipelines.
 
 ---
 
