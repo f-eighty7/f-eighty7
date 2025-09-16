@@ -18,7 +18,7 @@ I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,docker,kubernetes,azuredevops,githubactions,gitlab,git,python,cs,bash,powershell,prometheus,grafana,postgres,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=azure,terraform,ansible,docker,kubernetes,githubactions,gitlab,git,python,cs,bash,powershell,prometheus,grafana,postgres,mysql&theme=dark" />
   </a>
 </p>
 
