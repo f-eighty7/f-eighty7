@@ -34,7 +34,7 @@ I am a DevOps Engineer with a strong focus on cloud automation, CI/CD, and Infra
 ### 📊 My GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-eighty7&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=f-eighty7&show_icons=true&theme=tokyonight&rank_icon=github" />
   <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-eighty7&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=f-eighty7&layout=compact&theme=tokyonight" />
 </p>
